@@ -32,9 +32,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
-import diabetes from "./Diabetes.png";
+import diabetes from "./diabetes.png";
 import flipsort from "./FlipSort.png";
-import localmark from "./LocalMark.png";
+import localmark from "./localmark.png";
 import tufflash from "./TUF-flash.png";
 
 export {
