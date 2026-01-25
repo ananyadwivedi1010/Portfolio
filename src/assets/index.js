@@ -25,10 +25,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import nss from "./company/nss.png";
+import technovation from "./company/technovation.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+import diabetes from "./Diabetes.png";
+import flipsort from "./FlipSort.png";
+import localmark from "./LocalMark.png";
+import tufflash from "./TUF-flash.png";
 
 export {
   logo,
@@ -56,7 +63,13 @@ export {
   shopify,
   starbucks,
   tesla,
+  nss,
+  technovation,
   carrent,
   jobit,
   tripguide,
+  diabetes,
+  flipsort,
+  localmark,
+  tufflash,
 };

@@ -19,10 +19,16 @@ import {
   starbucks,
   tesla,
   shopify,
+  nss,
+  technovation,
   carrent,
   jobit,
   tripguide,
   threejs,
+  diabetes,
+  flipsort,
+  localmark,
+  tufflash,
 } from "../assets";
 
 export const navLinks = [
@@ -103,7 +109,7 @@ const experiences = [
   {
     title: "Mentor",
     company_name: "Technovation",
-    icon: starbucks, // replace with relevant icon if you have
+    icon: technovation, // replace with relevant icon if you have
     iconBg: "#383E56",
     date: "Jan 2025 - Present",
     points: [
@@ -116,7 +122,7 @@ const experiences = [
   {
     title: "Design Team Member",
     company_name: "NSS",
-    icon: tesla, // replace with relevant icon if you have
+    icon: nss, // replace with relevant icon if you have
     iconBg: "#E6DEDD",
     date: "Jan 2024 - Dec 2024",
     points: [
@@ -159,7 +165,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: jobit,
+    image: tufflash,
     source_code_link: "https://github.com/ananyadwivedi1010/TUF-Flash.git",
   },
   {
@@ -184,7 +190,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: jobit,
+    image: flipsort,
     source_code_link: "https://github.com/ananyadwivedi1010/FlipSortt.git",
   },
 
@@ -206,7 +212,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: diabetes,
     source_code_link: "https://github.com/ananyadwivedi1010/Diabetes-Prediction.git",
   },
   {
@@ -224,7 +230,7 @@ const projects = [
       },
 
     ],
-    image: carrent,
+    image: localmark,
     source_code_link: "https://github.com/ananyadwivedi1010/LocalMark",
   },
 
