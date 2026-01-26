@@ -111,7 +111,7 @@ const experiences = [
     company_name: "Technovation",
     icon: technovation, // replace with relevant icon if you have
     iconBg: "#383E56",
-    date: "Jan 2025 - Present",
+    date: "Jan 2026 - Present",
     points: [
       "Guiding students in ideation and project development.",
       "Mentoring beginner and senior students on AI, web development, and DSA projects.",
