@@ -36,8 +36,10 @@ import diabetes from "./diabetes.png";
 import flipsort from "./FlipSort.png";
 import localmark from "./localmark.png";
 import tufflash from "./TUF-flash.png";
+import profile from "./profile.png";
 
 export {
+  profile,
   logo,
   backend,
   creator,
